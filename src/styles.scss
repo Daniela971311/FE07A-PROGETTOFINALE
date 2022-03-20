@@ -1,0 +1,11 @@
+/* You can add global styles to this file, and also import other style files */
+@import '~bootstrap/scss/bootstrap';
+
+body{
+  background-image: url(./assets/foto1.png);
+
+  background-size: 100vw;
+  background-attachment: fixed;
+  background-position: center;
+
+}
